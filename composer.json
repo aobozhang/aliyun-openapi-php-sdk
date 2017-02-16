@@ -1,7 +1,7 @@
 {
   "name": "aobo/aliyun-openapi-php-sdk-composer",
   "description": "aliyun-openapi-php-sdk-composer",
-  "type": "composer-plugin",
+  "type": "project",
   "license": "Apache License 2.0",
   "authors": [
     {
