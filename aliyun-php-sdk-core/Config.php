@@ -38,8 +38,9 @@ Autoloader::addAutoloadPath("aliyun-php-sdk-vpc");
 Autoloader::addAutoloadPath("aliyun-php-sdk-kms");
 Autoloader::addAutoloadPath("aliyun-php-sdk-rds");
 Autoloader::addAutoloadPath("aliyun-php-sdk-slb");
+Autoloader::addAutoloadPath("aliyun-php-sdk-mts");
 
-//config http proxy	
+//config http proxy
 define('ENABLE_HTTP_PROXY', FALSE);
 define('HTTP_PROXY_IP', '127.0.0.1');
 define('HTTP_PROXY_PORT', '8888');
